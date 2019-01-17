@@ -11,6 +11,11 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+    <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/keyven-code/repo/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/keyven-code/repo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/keyven-code/repo</datadir>
+    </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Dibujitos para niños</summary>
     <description lang="en">Dibujos infantiles en español para los peques de la casa</description>
