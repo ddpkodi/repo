@@ -38,7 +38,7 @@ channellist=[
 		("Cuentos Infantiles", "channel/UCjgRtV0zjOfsCP0_i3DjA8A", 'https://yt3.ggpht.com/a-/AAuE7mDA-ip1cNGwQPY4OvlJHgXnf728HSpRIwhpYA=s288-mo-c-c0xffffffff-rj-k-no'),
 		("Canciones Infantiles", "user/toycantando", 'https://yt3.ggpht.com/a-/AAuE7mCl5FIwpXPYRca9USn6JPeSgsRwkDX_n5AGRQ=s288-mo-c-c0xffffffff-rj-k-no'),
 		("CantaJuego", "user/CantaJuegoVEVO", 'https://yt3.ggpht.com/a-/AAuE7mAAjqf_1kE1jVAY3Jz0bX4LqKkkc_CddpR97w=s288-mo-c-c0xffffffff-rj-k-no'),
-		("Canciones Disney", "user/DisneySongSpainHD", 'https://pbs.twimg.com/profile_images/849396952781512705/jxODsBB4_400x400.jpg'),
+		("Canciones Disney", "channel/UCQfbj5mkQX-bzv24OHqcfyg", 'https://pbs.twimg.com/profile_images/849396952781512705/jxODsBB4_400x400.jpg'),
 		
 		
 ]
