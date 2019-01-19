@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.peketv"
 	name="PekeTV"
-	version="1.5.0"
+	version="1.6.0"
 	provider-name="keyven">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
