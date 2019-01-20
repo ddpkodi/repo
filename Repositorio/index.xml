@@ -1,206 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B] Novedades de Addon...Actualizacion:[/B][/COLOR][B][COLOR white][B] 16/09/2018 [/B][/COLOR]</title>
+<title>[COLOR lime][B]Actualizacion:[/B][/COLOR][B][COLOR orange][B] 20/09/2018 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "Añadida nueva seccion: todavia mas Contenido / Planeta Nemesis"
-
-    line2 = "Añadido: todavia mas Contenido / Los Secretos del Vaticano"
-
-    line3 = "Añadido: todavia mas Contenido / Reliquias Alienigenas"
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2JP1rjR"
-]]></expres>
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/4QbrsYR.jpg</thumbnail>
-<fanart>https://i.imgur.com/4QbrsYR.jpg</fanart>
-
-<info>[COLOR lime][B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
+<title>Canales [COLOR orange]HD[/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2HJQomJ</externallink>
-  <fanart>https://i.imgur.com/QMB7OQQ.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/xFJbHfA.jpg</thumbnail>
- <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+<externallink>https://raw.githubusercontent.com/keyven-code/repo/master/Repositorio/source/listahd.xml</externallink>
+  <fanart>https://www.digitaltveurope.com/files/2013/07/bbc-hd.jpg</fanart> 
+  <thumbnail>https://www.digitaltveurope.com/files/2013/07/bbc-hd.jpg</thumbnail>
+ <info>[COLOR orange][B]Canales de TV en calidad Full HD[/B][/COLOR]</title></info>
 </item>
 
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Documentales y Conferencias [/B][/COLOR]</title>
+<title>Canales [COLOR orange]SD[/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LHZAuA</externallink>
-  <fanart>https://i.imgur.com/brPKXPt.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/l69DnyO.jpg</thumbnail>
- <info>[COLOR lime][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Canales En Directo y Off-line [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2MmFZAZ</externallink>
-  <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/WlhZJBg.jpg</thumbnail>
- <info>[COLOR lime][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Razas Alienigenas [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2JP3TH6</externallink>
-  <fanart>https://i.imgur.com/GQ8QGGb.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/OxN5RyN.jpg</thumbnail>
- <info>[COLOR lime][B]Que Sabemos de las distintas razas de alienigenas que nos visitan..? Salgamos de dudas...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Contenido Extra...[/B][/COLOR][B]  [/B][/COLOR]</title>
-<link>ignore</link>
-<externallink>https://bit.ly/2JRxJKQ</externallink>
-  <fanart>https://i.imgur.com/1USBajz.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail> 
- <info>[COLOR lime][B]Seccion con mucho mas contenido perfectamente ordenado que seguro encuentras interesante...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Todavia mas Contenido Extra...!!![/B][/COLOR][B]  [/B][/COLOR]</title>
-<link>ignore</link>
-<externallink>https://bit.ly/2C67c9Y</externallink>
-<thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
-<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
-</item>
-<item>
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Ultimas Noticias..!!! [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
-  <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
-  <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Audio Libros [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/t3q7TIr2REM/playlist/PLQZnrUFVQlmkk7KrrRlfNfRrF0zQqCu54/</jsonrpc>
-<thumbnail>https://i.imgur.com/uZ97Kv6.jpg</thumbnail>
-  <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
-  <info>[COLOR lime][B]Seccion de Audiolibros sobre la misma Tematica.. recomendable, ideal escucharlos con cascos auriculares para una mejor experiencia[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR lime][B] Otros Addons del mismo creador[/B][/COLOR][B][COLOR yellow][B]...[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2MEVc4a</externallink>
-  <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
- <info>[COLOR lime][B]Otros Addons de Contenido Tematico del Mismo Creador.[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR yellow][B] Si Tienes Problemas Leeme... [/B][/COLOR]</title>
-<link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "1º Menú de configuración del Addon de YouTube "
-
-    line2 = "2º En ajustes de Youtube, la pestaña MPEG-DASH Activar Usar mpeg-dash y habilitar Proxy MPEG-DASH"
-
-    line3 = "3º También puedes instalar el YouTube Mod de Catoal que deja esas opciones activadas y que esta en la fuente de Catoal" 
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2JP1rjR"
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/4QbrsYR.jpg</thumbnail>
-<fanart>https://i.imgur.com/4QbrsYR.jpg</fanart>
-
-<info>[COLOR lime][B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
-</item>
-
-
-<item>
-<title>[COLOR yellow][B] Instalador Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
-<link>action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"</link>
-<jsonrpc>plugin://plugin.video.youtube/maintain/inputstreamhelper/install/</jsonrpc>
-<thumbnail>https://i.imgur.com/H6hsLLT.jpg</thumbnail>
-   <fanart>https://i.imgur.com/IweM51g.jpg</fanart> 
-  <info>[COLOR lime][B]Complemento necesario para poder abrir ventanas emergentes con los dialogos y leer las direfentes secciones...[/B][/COLOR]</title></info>
-</item>
-
-
-<item>
-<title>[COLOR yellow][B] Agradecimientos [/B][/COLOR]</title>
-<link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "A todos los usuarios que haceis grande Kodi."
-
-    line2 = "A @Tecobt, @catoalkodi, @SiempreFuerte78 del Grupo Catana ( @Catana )."
-
-    line3 = "A Todos los desarrolladores por sus creaciones y los youtubers por compartir su trabajo con todo el mundo." 
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2JP1rjR"
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/xeFZ8DI.jpg</thumbnail>
-<fanart>https://i.imgur.com/xeFZ8DI.jpg</fanart>
-  <info>[COLOR lime][B] Entrar[/B][/COLOR]</info>
-</item>
-
-<item>
-<title>[COLOR lime][B] Contacto... [/B][/COLOR]</title>
-<link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "Email de reporte de fallos y sugerencias "
-
-    line2 = "addon.kodi.ovni@gmail.com"
-
-    line3 = "Gracias por Instalar el addon"
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2JP1rjR"
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://i.imgur.com/1OuWaT3.jpg</thumbnail>
-<fanart>https://i.imgur.com/4QbrsYR.jpg</fanart>
-
-<info>[COLOR lime][B]Contacto con el Creador del addon.[/B][/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/keyven-code/repo/master/Repositorio/source/listasd.xml</externallink>
+  <fanart>https://pbs.twimg.com/profile_images/525394766532730881/IuMki5IX_400x400.jpeg</fanart> 
+  <thumbnail>https://pbs.twimg.com/profile_images/525394766532730881/IuMki5IX_400x400.jpeg</thumbnail>
+ <info>[COLOR orange][B]Canales de TV en calidad SD[/B][/COLOR]</title></info>
 </item>
