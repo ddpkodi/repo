@@ -1,0 +1,8 @@
+﻿<settings>		
+  <category label="Información KeyTV">
+       	<setting type="lsep" label="[COLOR lime]Versión del Addon Actualizado 20/01/2019[/COLOR]" option="close" />
+		<setting type="lsep" label="[COLOR orange]Grupo Telegram:[/COLOR] @RepoKey" option="close" />
+ </category>
+		  </settings>
+
+
