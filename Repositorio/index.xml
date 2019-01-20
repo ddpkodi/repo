@@ -1,303 +1,255 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/wLiUaSS.png" group-title="Información",TECNOTV ESP
-http://1tecnotv.info
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="Información",19/Junio/2018
-http://tecnotv.xyz/error7
-#EXTINF:-1 tvg-logo="https://imgur.com/sQ5MpXq.png" group-title="Información",TecnotvOficial
-http://tecnotv.xyz/redes.avi
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="Información",@Tecnotv
-http://tecnotv.xyz/redes.avi
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="Información",@TecnotvGroup
-http://tecnotv.xyz/rede
-#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Información",BLACK GHOST NO ES PARTE DE TECNOTV
-http://tecnotv.info/error
-#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Información",BLACK GHOST NO ES PARTE DE TECNOTV
-http://tecnotv.info/error
-#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Información",BLACK GHOST NO ES PARTE DE TECNOTV
-http://tecnotv.info/error
-
-#EXTINF:-1 tvg-logo="https://imgur.com/wLiUaSS.png" group-title="Información",PRUEBA
-http://photocall.tv/vg6343.m3u8?ch=fox
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898962938614210560/3zeJbp6Q_400x400.jpg" group-title="Nacional",Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/903514630873649153/pxrv1ZDn_400x400.jpg" group-title="Nacional",Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/631874922973896704/JpnxCQcC_400x400.jpg" group-title="Nacional",Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898966361426231296/0sS0RzFh_400x400.jpg" group-title="Nacional",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/685118586977923073/nuId4QhF_400x400.jpg" group-title="Nacional",A3Series
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR_400x400.jpg" group-title="Nacional",Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_400x400.jpeg" group-title="Nacional",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA" , Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/760073526535651328/XBElFLWS_400x400.jpg" group-title="Nacional",Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg" group-title="Nacional",Be Mad TV
-https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg" group-title="Nacional", Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-#EXTINF: -1, ENERGY
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3074693302/0403af99e8cbfca420370078a643bf5d_400x400.jpeg" group-title="Nacional",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/795650414247104512/3Eu74R_G_400x400.jpg",Mundo Auto TV
-https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/realmadrid.png",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-
-#EXTINF:-1,Lancelot TV PELI 
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.toplatino.net/wp-content/uploads/2011/06/logo_toplatino_horiz_300x131.jpg" group-title="PERU",Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-#EXTINF:1,CANAL 11 radio virgin
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1,Retro Tv
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
-#EXTINF:-1,RetroTV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-#EXTINF:-1,Power HD
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1,Vibee TV
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="España",REAL MADRID TV .
-http://digiveo.ml:88/digiveo/digiveo.com/11
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="España",REAL MADRID TV HD .
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" group-title="España",BARCA TV .
-http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
-
-#EXTINF:-1,~ Spain TV ~
-#EXTINF:-1,3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1,101 TV Malaga
-http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
-#EXTINF:-1,7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1,25 Televisio
-http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
-#EXTINF:-1,8 Cadiz TV
-http://cls.todostreaming.eu/unatv/live/playlist.m3u8
-#EXTINF:-1,8 TV
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
-#EXTINF:-1,8 TV*
-http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
-#EXTINF:-1,13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1,Alcarria TV
-http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1,Andalucia Turismo
-http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-#EXTINF:-1,Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,Antena 3*
-http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
-#EXTINF:-1,Antena 3 Int'l
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,Aragon TV*
-http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
-#EXTINF:-1,Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,Atreseries*
-http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
-#EXTINF:-1,Betis TV
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1,Beteve
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-#EXTINF:-1,Canal 4 Centro Mancha
-http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1,Canal 7
-http://163.172.15.219:1935/live/vivatv/playlist.m3u8
-#EXTINF:-1,Canal 24 Horas
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1,Canal 25
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1,Canal Costa
-http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
-#EXTINF:-1,Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1,Canal Sur Cocina
-http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1,Canal Sur Flamenco
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:-1,Canal Parlamento
-http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
-#EXTINF:-1,Canaria SAT
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-#EXTINF:-1,Canaria SAT*
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:-1,Castilla-La Mancha TV
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:-1,Castilla Leon TV
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-#EXTINF:-1,Ceuta TV
-http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-#EXTINF:-1,Condavision
-http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
-#EXTINF:-1,Costa del Sol TV
-http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:-1,Cuatro [Off]
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
-#EXTINF:-1,El Correo TV
-http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-#EXTINF:-1,El Correo TV*
-http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
-#EXTINF:-1,El Punt Avui TV
-http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Emporda TV
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1,Estepona TV
-http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
-#EXTINF:-1,ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1,Girona TV
-http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
-#EXTINF:-1,Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1,HTV Huelva
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:-1,IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-#EXTINF:-1,Imas TV
-http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-#EXTINF:-1,Informacion TV
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:-1,Intereconomia TV
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1,La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1,Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1,Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1,Levante TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1,Lleida TV
-http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1,Melilla TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:-1,Mirame TV
-http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
-#EXTINF:-1,Mogan TV
-http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
-#EXTINF:-1,Navarra TV
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1,Navarra TV*
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1,Olot TV
-http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Onda Algeciras
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:-1,Onda Azul Malaga
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1,Onda Cadiz
-http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
-#EXTINF:-1,Onda Jaen
-http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
-#EXTINF:-1,Ondaluz Cadiz [NoKodi]
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Costa del Sol [NoKodi]
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Costa Noroeste [NoKodi]
-http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Jerez [NoKodi]
-http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Marbella [NoKodi]
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Sevilla [NoKodi]
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
-#EXTINF:-1,Popular TV Cantabria
-http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,Real Madrid TV*
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1,Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1,Ribera TV
-http://188.165.135.22/ribera/livestream/.m3u8
-#EXTINF:-1,RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1,RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1,RTV Marbella
-http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
-#EXTINF:-1,San Roque TV
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:-1,Sevilla FC TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1,TAC12
-http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
-#EXTINF:-1,TCS Mediterraneo
-http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
-#EXTINF:-1,TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1,TeleBadalona
-http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,TeleBilbao
-http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:-1,Telecinco
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
-#EXTINF:-1,TeleElx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1,Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1,TeleOnuba
-http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
-#EXTINF:-1,TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1,TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1,Terrassa TV
-http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
-#EXTINF:-1,Tindaya TV
-http://188.165.135.22/tindayatv/livestream/playlist.m3u8
-#EXTINF:-1,Travel TV
-http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
-#EXTINF:-1,TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1,TV3*
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1,TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:-1,TV Alcoi
-http://92.222.37.18/hls/tvaxa.m3u8
-#EXTINF:-1,TVG America
-http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
-#EXTINF:-1,TVG Europa
-http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
-#EXTINF:-1,TVG Europa*
-http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
-#EXTINF:-1,TV Mediterraneo
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:0,24 Horas
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14184
+#EXTINF:0,DW ES
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14185
+#EXTINF:0,---------ES.TD ---------
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14170
+#EXTINF:0,La 1 FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14131
+#EXTINF:0,LA 1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5559
+#EXTINF:0,LA 2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5560
+#EXTINF:0,Antenna 3 FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14132
+#EXTINF:0,Antenna 3
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5527
+#EXTINF:0,Cuatro FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14134
+#EXTINF:0,Cuatro
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5545
+#EXTINF:0,Canal Sur A.
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14178
+#EXTINF:0,Tele Madrid FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14177
+#EXTINF:0,TeleCinco FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14133
+#EXTINF:0,TeleCinco
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5587
+#EXTINF:0,La Sexta FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14135
+#EXTINF:0,La Sexta
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5561
+#EXTINF:0,Hollywood'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5634
+#EXTINF:0,Divinity
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5549
+#EXTINF:0,Energy
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5550
+#EXTINF:0,FDF
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5553
+#EXTINF:0,SyFy'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5635
+#EXTINF:0,Mega HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14136
+#EXTINF:0,AMC
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5526
+#EXTINF:0,AMC FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14150
+#EXTINF:0,NOVA
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5583
+#EXTINF:0,Iberalia Tv
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5558
+#EXTINF:0,---------ES.Deportes---------
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14171
+#EXTINF:0,Teledeporte
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5588
+#EXTINF:0,TeleDeporte FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14162
+#EXTINF:0,beIN LaLiga FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14161
+#EXTINF:0,beIN Laliga
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5533
+#EXTINF:0,Laliga TV FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14163
+#EXTINF:0,LaLiga TV
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5562
+#EXTINF:0,M. Deportes FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14158
+#EXTINF:0,M. Deportes
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5568
+#EXTINF:0,Liga Campeones 1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12603
+#EXTINF:0,Liga Campeones 2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12604
+#EXTINF:0,Liga Campeones 3
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12605
+#EXTINF:0,M. Vamos FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14157
+#EXTINF:0,Eurosport'1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5551
+#EXTINF:0,Eurosport'2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5552
+#EXTINF:0,GOL
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5556
+#EXTINF:0,M. MotoGP FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14167
+#EXTINF:0,M. Formula 1 FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14168
+#EXTINF:0,M. Formula 1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5573
+#EXTINF:0,M. Futbol FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14160
+#EXTINF:0,Real Madrid TV
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5585
+#EXTINF:0,Barça TV
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5532
+#EXTINF:0,M. Golf HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14164
+#EXTINF:0,M. Golf
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5574
+#EXTINF:0,M. Toros
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5631
+#EXTINF:0,---------ES.Docus---------
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14172
+#EXTINF:0,National Geographic FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14165
+#EXTINF:0,National' Geographic
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5580
+#EXTINF:0,Nat Geo Wild FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14166
+#EXTINF:0,NatGeo' Wild
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5579
+#EXTINF:0,DISCOVERY'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5632
+#EXTINF:0,Crime& Investigation
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14181
+#EXTINF:0,Dmax
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14180
+#EXTINF:0,Odisea
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14179
+#EXTINF:0,Caza y Pesca
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5540
+#EXTINF:0,BLAZE
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5525
+#EXTINF:0,VIAJAR
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5589
+#EXTINF:0,Historia
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5557
+#EXTINF:0,---------ES.Cine&Series---------
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14173
+#EXTINF:0,#0 FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14145
+#EXTINF:0,#0
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5523
+#EXTINF:0,M. Accion FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14138
+#EXTINF:0,M. Accion
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5564
+#EXTINF:0,M. Comedia FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14141
+#EXTINF:0,M. Comedia
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5566
+#EXTINF:0,M. Estrenos HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14137
+#EXTINF:0,M. Estrenos
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5571
+#EXTINF:0,M. Series FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14146
+#EXTINF:0,M. Series
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5565
+#EXTINF:0,M. Cine N
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5567
+#EXTINF:0,M. Drama FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14140
+#EXTINF:0,M. DRAMA
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5577
+#EXTINF:0,M. Seriesmania FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14147
+#EXTINF:0,M. Seriesmania
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5576
+#EXTINF:0,M. CineDoc&Roll FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14139
+#EXTINF:0,M. CineDoc&Roll
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5570
+#EXTINF:0,TMC FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14143
+#EXTINF:0,TCM
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5586
+#EXTINF:0,Telenovelas
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14182
+#EXTINF:0,Paramount
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5584
+#EXTINF:0,Comedy. Central
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5542
+#EXTINF:0,Fox FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14148
+#EXTINF:0,Fox'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5633
+#EXTINF:0,Fox Life FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14149
+#EXTINF:0,Fox Life'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5554
+#EXTINF:0,AXN FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14151
+#EXTINF:0,AXN'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5629
+#EXTINF:0,AXN White FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14152
+#EXTINF:0,AXN White
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5529
+#EXTINF:0,TNT FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14144
+#EXTINF:0,TNT'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5636
+#EXTINF:0,Cosmo HD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14156
+#EXTINF:0,Cosmo
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5563
+#EXTINF:0,A3 Series FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14155
+#EXTINF:0,A3 Series
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5544
+#EXTINF:0,Calle 13 FHD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14154
+#EXTINF:0,Calle 13
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5534
+#EXTINF:0,Canal Decasa
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5536
+#EXTINF:0,Canal Cocina
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5535
+#EXTINF:0,---------ES.Bajo'Demanda---------
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14174
+#EXTINF:0,Alquiler 1
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12301
+#EXTINF:0,Alquiler 2
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12303
+#EXTINF:0,Alquiler 3
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12305
+#EXTINF:0,Alquiler 4
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12306
+#EXTINF:0,Alquiler 5
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12308
+#EXTINF:0,Alquiler 6
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12309
+#EXTINF:0,Alquiler 7
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12310
+#EXTINF:0,Alquiler 8
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12312
+#EXTINF:0,Alquiler 9
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12314
+#EXTINF:0,Alquiler 10
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/12316
+#EXTINF:0,---------ES.Infantil---------
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14175
+#EXTINF:0,Canal Panda
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5538
+#EXTINF:0,BOING'
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5630
+#EXTINF:0,BabyTV
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5530
+#EXTINF:0,Disney' XD
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5548
+#EXTINF:0,Disney' Junior
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5547
+#EXTINF:0,Disney' Channel
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5546
+#EXTINF:0,Nick JR
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/14183
+#EXTINF:0,Neox
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5581
+#EXTINF:0,Clan TVE
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5541
+#EXTINF:0,Aragón TV
+http://rb-group-server.com:25461/RhreZNxWUx/lEJoacyWft/5528
